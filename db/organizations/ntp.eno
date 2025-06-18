@@ -1,0 +1,3 @@
+name: Network Time Protocol
+website_url: https://www.ntppool.org/en/
+description: The Network Time Protocol (NTP) is used by devices to get the current time. NTP servers are hosted by various entities.

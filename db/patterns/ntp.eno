@@ -1,0 +1,10 @@
+name: Network Time Protocol
+category: hosting
+website_url: https://www.ntppool.org/en/
+organization: ntp
+
+--- domains
+ntp.org
+ntppool.org
+ntpns.org
+--- domains
